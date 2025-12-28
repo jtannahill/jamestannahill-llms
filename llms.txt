@@ -15,9 +15,10 @@ Website: https://www.jamestannahill.com/
 About: https://www.jamestannahill.com/about
 Agency / Platforms: https://www.jamestannahill.com/agency
 Insights: https://www.jamestannahill.com/insights
-Blog (if populated): https://www.jamestannahill.com/blog
+Blog (if populated): https://www.jamestannahill.com/faqs
 FAQs + Contact form (primary contact surface): https://www.jamestannahill.com/faqs
 LinkedIn: https://www.linkedin.com/in/jamesstannahill
+Bloomberg: https://www.bloomberg.com/profile/person/23291921
 
 [SCOPE]
 This file governs only public content served from jamestannahill.com.

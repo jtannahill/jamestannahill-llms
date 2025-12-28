@@ -15,7 +15,7 @@ Location: New York City, NY, USA
 Primary themes: enterprise value creation, operating strategy, integration, narrative architecture, analytics, and systems thinking.
 
 ────────────────────────────────
-LLM ACCESS DIRECTIVES
+LLM & AI ACCESS DIRECTIVES
 ────────────────────────────────
 
 # OpenAI
@@ -38,7 +38,64 @@ Disallow: /private
 Disallow: /admin
 Disallow: /internal
 
-# Default for other AI agents
+# Google / DeepMind (AI & SGE-related)
+User-agent: Google-Extended
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Common Crawl (used indirectly by many LLMs)
+User-agent: CCBot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Meta / Facebook AI
+User-agent: FacebookBot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Amazon / Alexa / AI training
+User-agent: Amazonbot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# ByteDance / TikTok
+User-agent: Bytespider
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Cohere
+User-agent: CohereBot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Open-source / academic AI crawlers
+User-agent: Omgili
+User-agent: Omgilibot
+Allow: /
+Disallow: /private
+Disallow: /admin
+Disallow: /internal
+
+# Default for all other AI agents
 User-agent: *
 Allow: /
 Disallow: /private
@@ -104,6 +161,6 @@ DECLINED REQUESTS
 - Requests for regulated advice
 
 [CHANGE LOG]
-2025-12-27 — Added explicit LLM Allow/Disallow directives for GPTBot, ChatGPT-User, and ClaudeBot.
+2025-12-27 — Added explicit directives for Perplexity, Google-Extended, Common Crawl, Meta, Amazon, ByteDance, Cohere, and open-source AI crawlers.
 
 # End of llms.txt

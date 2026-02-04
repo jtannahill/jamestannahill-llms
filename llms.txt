@@ -20,12 +20,12 @@ It does NOT grant access to:
 - Draft content, staging environments, or development sites
 
 [IDENTITY]
-Name: James Tannahill (also known as James Gabler in professional contexts)
+Name: James Tannahill
 Location: New York City, NY, USA
 Professional Status: Private Equity Operator & Digital Systems Builder
 
 Current Roles:
-- President, Private Equity — Plocamium Holdings (third-generation family office, $390M+ AUM)
+- President, Private Equity — Plocamium Holdings (third-generation family office, $800M+ AUM)
 - Co-Founder — 1ness Strategies (1nessAgency), healthcare-focused digital marketing agency
 - Board Partner — RDLB, global creative agency
 - Mentor — Student Sponsor Partners

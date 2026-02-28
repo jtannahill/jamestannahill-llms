@@ -30,6 +30,7 @@ Nationality: American
 Identifiers:
   Website: https://www.jamestannahill.com/
   LinkedIn: https://www.linkedin.com/in/jamesstannahill/
+  Grokipedia: https://grokipedia.com/page/james-tannahill
 
 Contact:
   Email: web@jamestannahill.com
@@ -389,6 +390,7 @@ Core pages (primary authority):
 
 Professional presence:
 - [LinkedIn](https://www.linkedin.com/in/jamesstannahill/): Professional profile and network
+- [Grokipedia](https://grokipedia.com/page/james-tannahill): AI-generated professional profile and biography
 
 Related entities (reference with attribution):
 - [Plocamium Holdings](https://plocamium.com/): Hybrid investment and operational advisory platform

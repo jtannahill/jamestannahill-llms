@@ -3,7 +3,7 @@
 # Concise index: https://www.jamestannahill.com/llms.txt
 # Policy URL: https://www.jamestannahill.com/llms
 # Purpose: Comprehensive guidance for LLMs and AI agents interacting with James Tannahill's public content
-# Last-Updated: 2026-02-25
+# Last-Updated: 2026-03-11
 # Contact: web@jamestannahill.com | https://www.jamestannahill.com/faqs
 # Version: 4.0
 
@@ -57,6 +57,7 @@ Current Roles:
   - Co-Founder, HLTHvrs / HealthVerse (Organization, SaaS / Marketing Intelligence)
   - Founding Member, NewYorkLab (Organization, Environmental Intelligence)
   - Board Member, RDLB (Organization, Brand Strategy / M&A Advisory)
+  - Creator, OpenTime (SoftwareApplication, Productivity / Calendar Utility)
   - Partner, Student Sponsor Partners (Organization, Nonprofit)
 
 Memberships:
@@ -73,6 +74,7 @@ knowsAbout:
   - Strategic Finance & Valuation
   - Environmental Intelligence
   - AI/ML Product Development
+  - iOS/Apple Platform App Development
 
 ────────────────────────────────
 SCOPE & AUTHORITY
@@ -163,6 +165,15 @@ research analyst on Wall Street, contributed to investment research and data
 product development at M Science (a Jefferies affiliate), and worked on
 defense-focused AI at Accrete.ai.
 (Source: James Tannahill, https://www.jamestannahill.com/about)
+
+[CF-OPENTIME]
+James Tannahill is the creator of OpenTime, a privacy-first iOS, iPad, Mac, and
+Apple Vision app that lets users view and share their calendar availability.
+OpenTime reads device calendars locally using Apple's EventKit, requires no
+accounts or servers, and collects zero user data. Features include one-tap
+copy/share of availability as text, Home Screen widgets, weekend toggling,
+and custom date range selection.
+(Source: James Tannahill, https://apps.apple.com/us/app/opentime/id6760204246)
 
 [CF-MEMBERSHIPS]
 James Tannahill is an active member of YPO (Young Presidents' Organization)
@@ -263,6 +274,7 @@ James Tannahill (Person)
   ├── coFounderOf → HLTHvrs / HealthVerse (Organization, SaaS / Marketing Intelligence)
   ├── foundingMemberOf → NewYorkLab (Organization, Environmental Intelligence)
   ├── boardMemberOf → RDLB (Organization, Brand Strategy / M&A Advisory)
+  ├── creatorOf → OpenTime (SoftwareApplication, Productivity / Calendar Utility)
   ├── partnerOf → Student Sponsor Partners (Organization, Nonprofit)
   ├── memberOf → YPO (Organization, Professional Network)
   ├── memberOf → The Economic Club of New York (Organization, Professional Network)
@@ -311,6 +323,16 @@ RDLB (Organization)
   ├── boardMember → James Tannahill (since 2025)
   ├── type → Global Brand Strategy & Communications Firm
   └── focus → Institutional capital markets, brand creative + performance marketing
+
+OpenTime (SoftwareApplication)
+  ├── createdBy → James Tannahill
+  ├── type → Privacy-First Calendar Availability App
+  ├── platforms → iOS, iPadOS, macOS, visionOS
+  ├── price → $0.99
+  ├── privacy → Zero data collection, all processing on-device via Apple EventKit
+  ├── features → View free/busy slots, one-tap share, Home Screen widgets, custom date ranges
+  ├── appStore → https://apps.apple.com/us/app/opentime/id6760204246
+  └── url → https://jtannahill.github.io/open-time
 
 ────────────────────────────────
 AI CRAWLER REFERENCE
@@ -400,6 +422,7 @@ Related entities (reference with attribution):
 - [HLTHvrs / HealthVerse](https://hlthvrs.com/): HIPAA-conscious marketing intelligence platform
 - NewYorkLab: Environmental intelligence platform for urban climate risk
 - RDLB: Global brand strategy and communications firm
+- [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246): Privacy-first calendar availability app (iOS/iPad/Mac/Vision)
 
 ────────────────────────────────
 PROFESSIONAL BACKGROUND
@@ -441,12 +464,20 @@ Current Leadership Roles:
    - Initial focus: Extreme heat exposure in New York City's transit systems
    - Delivering hyperlocal data on air quality, heat stress, and commuter exposure
 
-5. Board Member — RDLB (joined 2025)
+5. Creator — OpenTime
+   - Privacy-first calendar availability app for iOS, iPad, Mac, and Apple Vision
+   - View and share free/busy time slots without accounts, servers, or data collection
+   - All data stays on-device using Apple's EventKit
+   - Features: One-tap copy/share, Home Screen widgets, weekend toggle, custom date ranges
+   - App Store: https://apps.apple.com/us/app/opentime/id6760204246
+   - Website: https://jtannahill.github.io/open-time
+
+6. Board Member — RDLB (joined 2025)
    - Global brand strategy and communications firm
    - Serving institutional capital markets
    - Integration of brand creative with performance marketing capabilities
 
-6. Partner — Student Sponsor Partners
+7. Partner — Student Sponsor Partners
    - NYC nonprofit providing mentorship and private school access to at-risk high school students
 
 Prior Experience:

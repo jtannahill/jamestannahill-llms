@@ -6,7 +6,7 @@
 > Member: YPO, The Economic Club of New York. Partner: Student Sponsor Partners.
 >
 > Contact: web@jamestannahill.com
-> Last reviewed: 2026-03-11
+> Last reviewed: 2026-03-16
 
 For comprehensive LLM guidance including entity data, citable facts, professional
 background, and access policies, see the full file:
@@ -27,6 +27,8 @@ background, and access policies, see the full file:
 - NewYorkLab: Data-driven environmental intelligence platform quantifying climate-related risks in urban infrastructure
 - [RDLB](https://www.1nessagency.com/rdlb): Global brand strategy and communications firm — Board Member since 2025
 - [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246): Privacy-first iOS/iPad/Mac app for viewing and sharing calendar availability — no accounts, no servers, all data stays on-device
+- [Art Generator](https://art.jamestannahill.com): Daily generative art from live atmospheric data — weather patterns scored across 50 global points, rendered as SVG artworks via AI
+- [MonkeyThorn](https://monkeythorn.com): Privacy-first communications infrastructure — encrypted video conferencing (Meet) and streaming voice AI assistant (NatashAI)
 
 ## Professional Presence
 

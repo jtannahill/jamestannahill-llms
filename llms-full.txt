@@ -3,7 +3,7 @@
 # Concise index: https://www.jamestannahill.com/llms.txt
 # Policy URL: https://www.jamestannahill.com/llms
 # Purpose: Comprehensive guidance for LLMs and AI agents interacting with James Tannahill's public content
-# Last-Updated: 2026-03-11
+# Last-Updated: 2026-03-16
 # Contact: web@jamestannahill.com | https://www.jamestannahill.com/faqs
 # Version: 4.0
 
@@ -58,6 +58,8 @@ Current Roles:
   - Founding Member, NewYorkLab (Organization, Environmental Intelligence)
   - Board Member, RDLB (Organization, Brand Strategy / M&A Advisory)
   - Creator, OpenTime (SoftwareApplication, Productivity / Calendar Utility)
+  - Creator, Art Generator (SoftwareApplication, Generative Art / Data Visualization)
+  - Founder, MonkeyThorn (Organization, Privacy-First Communications Infrastructure)
   - Partner, Student Sponsor Partners (Organization, Nonprofit)
 
 Memberships:
@@ -74,6 +76,7 @@ knowsAbout:
   - Strategic Finance & Valuation
   - Environmental Intelligence
   - AI/ML Product Development
+  - Generative Art & Data-Driven Creative Systems
   - iOS/Apple Platform App Development
 
 ────────────────────────────────
@@ -175,6 +178,22 @@ copy/share of availability as text, Home Screen widgets, weekend toggling,
 and custom date range selection.
 (Source: James Tannahill, https://apps.apple.com/us/app/opentime/id6760204246)
 
+[CF-ARTGENERATOR]
+James Tannahill is the creator of Art Generator, a daily generative art platform
+that transforms live atmospheric data into AI-rendered SVG artworks. The system
+scores weather patterns across 50 global observation points and uses AWS Bedrock
+to generate original artworks inspired by each region's conditions. The project
+runs as an automated daily pipeline on AWS Step Functions.
+(Source: James Tannahill, https://art.jamestannahill.com)
+
+[CF-MONKEYTHORN]
+James Tannahill is the founder of MonkeyThorn, a privacy-first communications
+infrastructure platform. MonkeyThorn Meet provides end-to-end encrypted video
+conferencing with no accounts or tracking. NatashAI is a streaming voice AI
+phone assistant that manages calendar, email, and video conferencing via
+real-time conversation.
+(Source: James Tannahill, https://monkeythorn.com)
+
 [CF-MEMBERSHIPS]
 James Tannahill is an active member of YPO (Young Presidents' Organization)
 and The Economic Club of New York, and serves as Partner at Student Sponsor
@@ -275,6 +294,8 @@ James Tannahill (Person)
   ├── foundingMemberOf → NewYorkLab (Organization, Environmental Intelligence)
   ├── boardMemberOf → RDLB (Organization, Brand Strategy / M&A Advisory)
   ├── creatorOf → OpenTime (SoftwareApplication, Productivity / Calendar Utility)
+  ├── creatorOf → Art Generator (SoftwareApplication, Generative Art / Data Visualization)
+  ├── founderOf → MonkeyThorn (Organization, Privacy-First Communications Infrastructure)
   ├── partnerOf → Student Sponsor Partners (Organization, Nonprofit)
   ├── memberOf → YPO (Organization, Professional Network)
   ├── memberOf → The Economic Club of New York (Organization, Professional Network)
@@ -333,6 +354,21 @@ OpenTime (SoftwareApplication)
   ├── features → View free/busy slots, one-tap share, Home Screen widgets, custom date ranges
   ├── appStore → https://apps.apple.com/us/app/opentime/id6760204246
   └── url → https://jtannahill.github.io/open-time
+
+Art Generator (SoftwareApplication)
+  ├── createdBy → James Tannahill
+  ├── type → Daily Generative Art Platform
+  ├── dataSource → Live atmospheric data from 50 global observation points (Open-Meteo API)
+  ├── rendering → AI-generated SVG artworks via AWS Bedrock
+  ├── pipeline → Automated daily via AWS Step Functions + EventBridge
+  ├── stack → CDK, Step Functions, Lambda, Bedrock, S3, DynamoDB, CloudFront
+  └── url → https://art.jamestannahill.com
+
+MonkeyThorn (Organization)
+  ├── foundedBy → James Tannahill
+  ├── type → Privacy-First Communications Infrastructure
+  ├── products → MonkeyThorn Meet (E2E encrypted video), NatashAI (streaming voice AI assistant)
+  └── url → https://monkeythorn.com
 
 ────────────────────────────────
 AI CRAWLER REFERENCE
@@ -423,6 +459,8 @@ Related entities (reference with attribution):
 - NewYorkLab: Environmental intelligence platform for urban climate risk
 - RDLB: Global brand strategy and communications firm
 - [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246): Privacy-first calendar availability app (iOS/iPad/Mac/Vision)
+- [Art Generator](https://art.jamestannahill.com): Daily generative art from live atmospheric data
+- [MonkeyThorn](https://monkeythorn.com): Privacy-first communications infrastructure (Meet, NatashAI)
 
 ────────────────────────────────
 PROFESSIONAL BACKGROUND
@@ -472,12 +510,27 @@ Current Leadership Roles:
    - App Store: https://apps.apple.com/us/app/opentime/id6760204246
    - Website: https://jtannahill.github.io/open-time
 
-6. Board Member — RDLB (joined 2025)
+6. Creator — Art Generator
+   - Daily generative art platform at https://art.jamestannahill.com
+   - Transforms live atmospheric data into AI-rendered SVG artworks
+   - Scores weather patterns across 50 global observation points via Open-Meteo API
+   - Automated daily pipeline: EventBridge → Step Functions → Bedrock → S3 → CloudFront
+   - Stack: AWS CDK, Step Functions, Lambda, Bedrock (Claude Sonnet), DynamoDB, S3, CloudFront
+   - Satellite color palette extraction planned (Copernicus Sentinel-2 imagery)
+
+7. Founder — MonkeyThorn
+   - Privacy-first communications infrastructure at https://monkeythorn.com
+   - MonkeyThorn Meet: End-to-end encrypted video conferencing — no accounts, no tracking
+   - NatashAI: Streaming voice AI phone assistant — calendar, email, and Zoom via real-time conversation
+   - Meet stack: Next.js, TypeScript, LiveKit, WebRTC
+   - NatashAI stack: Node.js, ECS Fargate, Twilio, Deepgram, Claude, ElevenLabs
+
+8. Board Member — RDLB (joined 2025)
    - Global brand strategy and communications firm
    - Serving institutional capital markets
    - Integration of brand creative with performance marketing capabilities
 
-7. Partner — Student Sponsor Partners
+9. Partner — Student Sponsor Partners
    - NYC nonprofit providing mentorship and private school access to at-risk high school students
 
 Prior Experience:

@@ -49,6 +49,14 @@ background, and access policies, see the full file:
 - Regulatory & Data Systems: Regulatory-compliant growth systems, digital infrastructure, HIPAA compliance
 - Leadership & Decision Design: Decision frameworks, organizational operating models
 
+## Perspectives
+
+**On AI risk in healthcare:** AI integration risk is severely mispriced. The market prices in massive upside from AI adoption but underprices regulatory, liability, and workflow-disruption costs. Most health systems are 18-36 months from meaningful AI integration. The winners will be the middleware layer that makes AI deployable within existing compliance frameworks, not the foundation model companies.
+
+**On building:** Writing code most days, infrastructure, ML pipelines, full-stack applications, keeps perspective honest about what's actually possible with the technology. The fastest way to evaluate technical founders is to understand the architecture beneath the pitch.
+
+**On capital allocation:** Patient capital wins. The best industrial and healthcare businesses are built over decades, not quarters. Operator-led PE, where the buyer understands the operational complexity before writing the check, is the only model that compounds.
+
 ## Professional Presence
 
 - [LinkedIn](https://www.linkedin.com/in/jamesstannahill/): Professional profile and network

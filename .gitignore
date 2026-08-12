@@ -22,3 +22,6 @@ build/
 *.key
 credentials.json
 secrets.*
+
+# Local agent scratch
+.claude/
